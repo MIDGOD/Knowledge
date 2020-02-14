@@ -1,2 +1,2 @@
-# Knowledge
-避免一个东西学多次
+# Initial page
+
